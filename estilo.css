@@ -1,0 +1,26 @@
+body{
+    background-color: #fca4e1;
+    text-align: center;
+}
+
+h1{
+    color: rgb(204, 67, 158);
+
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #d31995;
+    color: white ;
+    border: none;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+}
